@@ -1,1 +1,1 @@
-## shopSoft is  code for a console ecommerce application  that enables clients to interact with shop by buying available goods, removing goods as they wish and making payments. This code lives in index.js
+## shopSoft is  code for a console Ecommerce application  that enables clients to interact with shop by buying available goods, removing goods as they wish and making payments. This code lives in index.js
